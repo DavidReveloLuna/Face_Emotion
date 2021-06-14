@@ -8,6 +8,22 @@ El entrenamiento lo realizaremos en google colab. Vamos a configurar un entorno 
 *     Tensorflow = 2.4.1
       Keras = 2.4.3 
 
-En el siguiente enlace encuentras el código para ejecutar en colab.
+En el siguiente enlace encuentras el código para ejecutar el entrenamiento en colab.
 
 [FaceEmotion.ipynb](https://github.com/DavidReveloLuna/Face_Emotion/blob/master/FaceEmotion.ipynb)
+
+## Prueba en tiempo real
+
+### Preparación del entorno
+
+    $ conda create -n FaceEmotion anaconda python=3.7.7
+    $ conda activate FaceEmotion
+    $ pip install tensorflow==2.4.1
+    $ pip install keras==2.4.3
+    $ pip install numpy scipy Pillow cython matplotlib scikit-image opencv-python h5py imgaug IPython[all]
+    
+### Usando WebCam
+
+Ejecutar el archivo FaceEmotionVideo.py
+
+    $ python FaceEmotionVideo.py
