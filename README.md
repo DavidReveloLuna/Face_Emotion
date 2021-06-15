@@ -27,3 +27,6 @@ En el siguiente enlace encuentras el código para ejecutar el entrenamiento en c
 Ejecutar el archivo FaceEmotionVideo.py
 
     $ python FaceEmotionVideo.py
+
+# **Canal de Youtube**
+[Tutoriales en Youtube](https://www.youtube.com/channel/UCr_dJOULDvSXMHA1PSHy2rg)
