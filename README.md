@@ -29,4 +29,4 @@ Ejecutar el archivo FaceEmotionVideo.py
     $ python FaceEmotionVideo.py
 
 # **Canal de Youtube**
-[Tutoriales en Youtube](https://www.youtube.com/channel/UCr_dJOULDvSXMHA1PSHy2rg)
+[Click aquì pare ver mi canal de YOUTUBE](https://www.youtube.com/channel/UCr_dJOULDvSXMHA1PSHy2rg)
