@@ -14,6 +14,8 @@ En el siguiente enlace encuentras el código para ejecutar el entrenamiento en c
 
 ## Prueba en tiempo real
 
+![](https://github.com/DavidReveloLuna/Face_Emotion/blob/master/assets/ToGift.gif)
+
 ### Preparación del entorno
 
     $ conda create -n FaceEmotion anaconda python=3.7.7
