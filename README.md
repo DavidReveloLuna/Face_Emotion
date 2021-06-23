@@ -17,8 +17,9 @@ En el siguiente enlace encuentras el código para ejecutar el entrenamiento en c
 
 ### Preparación del entorno
 
-    $ conda create -n FaceEmotion anaconda python=3.7.7
+    $ conda create -n FaceEmotion
     $ conda activate FaceEmotion
+    $ conda install python=3.7
     $ pip install tensorflow==2.4.1
     $ pip install keras==2.4.3
     $ pip install imutils opencv-python h5py
