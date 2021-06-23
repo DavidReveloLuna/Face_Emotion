@@ -21,7 +21,7 @@ En el siguiente enlace encuentras el código para ejecutar el entrenamiento en c
     $ conda activate FaceEmotion
     $ pip install tensorflow==2.4.1
     $ pip install keras==2.4.3
-    $ pip install imutils numpy scipy Pillow cython matplotlib scikit-image opencv-python h5py imgaug IPython[all]
+    $ pip install imutils opencv-python h5py
     
 ### Usando WebCam
 
