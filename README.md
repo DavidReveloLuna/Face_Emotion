@@ -23,6 +23,7 @@ En el siguiente enlace encuentras el código para ejecutar el entrenamiento en c
     $ pip install tensorflow==2.4.1
     $ pip install keras==2.4.3
     $ pip install imutils opencv-python h5py
+    $ pip install matplotlib == 3.2.2
     
 ### Usando WebCam
 
